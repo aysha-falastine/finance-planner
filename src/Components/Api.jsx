@@ -1,5 +1,5 @@
 // src/Components/Api.jsx
-const API_URL = 'http://localhost:5000/goals';
+const API_URL = 'https://finance-planner-api-h7gf.onrender.com/goals';
 
 export const fetchGoals = async () => {
   const res = await fetch(API_URL);
