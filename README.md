@@ -32,7 +32,7 @@ A full-stack goal management dashboard that helps users track multiple savings g
 ---
 
 ##  Project Structure
-smart-goal-planner/
+```smart-goal-planner/
 ├── public/
 │ └── index.html
 ├── src/
@@ -48,7 +48,7 @@ smart-goal-planner/
 │ ├── App.css
 │ ├── index.css
 │ └── main.jsx
-├── db.json (for json-server)
+├── db.json (for json-server)```
 
 📌 Future Improvements
 
